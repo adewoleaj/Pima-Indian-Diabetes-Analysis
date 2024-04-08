@@ -82,3 +82,13 @@ Overall, the developed logistic regression and ensemble models show promising pe
 ---
 
 This README provides a comprehensive overview of the Pima Indian Diabetes Analysis project, highlighting the methodology, results, and implications of the analysis.
+
+
+---
+## Author
+
+**_Adewole Adetoro Ajala_**
+
+For any inquiries, please contact: woltoaj@gmail.com / woltoajai@gmail.com
+
+Feel free to contribute or provide feedback!
