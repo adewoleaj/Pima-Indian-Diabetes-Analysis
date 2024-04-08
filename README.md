@@ -66,9 +66,10 @@ Overall, Random Forest and Gradient Boosting classifiers appear to be more suita
 
 it's evident that two factors significantly contribute to the occurrence of diabetes: high blood glucose concentration (plas) and high body (mass) index (BMI). These factors demonstrate a positive correlation with the likelihood of diabetes occurrence, meaning that higher values of blood glucose concentration and BMI are associated with a greater probability of diabetes.
 
+
 ### Final Model
 
-The final Random Forest model achieved an accuracy of approximately 86% and accurately predicted diabetes status in 84 individuals. Notably, the model demonstrated a recall of 92%, indicating its ability to correctly identify individuals with diabetes while minimizing false negatives.
+The final Random Forest model achieved an accuracy of approximately 87% and accurately predicted diabetes status in 84 individuals. Notably, the model demonstrated a recall of 93%, indicating its ability to correctly identify individuals with diabetes while minimizing false negatives.
 
 ![Final Random Forest Model](https://github.com/adewoleaj/Pima-Indian-Diabetes-Analysis/blob/main/final%20rf.png?raw=true)
 
